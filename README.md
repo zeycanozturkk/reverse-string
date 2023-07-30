@@ -1,4 +1,4 @@
-[deneme1](https://github.com/zeycanozturkk/reverse-string/assets/114536838/aef24c29-d5cf-4cda-a7f2-63eccab03275)
+![deneme1](https://github.com/zeycanozturkk/reverse-string/assets/114536838/aef24c29-d5cf-4cda-a7f2-63eccab03275)
 # reverse-string!
 basic project, given string converting reversed string
 
